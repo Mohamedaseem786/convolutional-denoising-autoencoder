@@ -28,8 +28,8 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## PROGRAM
-### Developed by: J.Rithaniepriyanka
-### Register no.: 212220230039
+### Developed by: MOHAMED ASEEM P
+### Register no.: 212221230063
 ```
 from tensorflow import keras
 from tensorflow.keras import layers
